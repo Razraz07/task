@@ -1,0 +1,6 @@
+.comment{
+        gap: 10px;
+        display: flex;
+        justify-content: stretch;
+        align-items: center;
+    }
